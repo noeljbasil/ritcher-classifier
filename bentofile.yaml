@@ -1,0 +1,12 @@
+service: "service.py:svc"
+labels:
+  owner: noel-basil
+  project: ritcher-predictor
+include:
+- "service.py"
+python:
+  packages:
+    - xgboost
+    - sklearn==1.0.2
+    - pydantic
+    - pandas
