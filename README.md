@@ -4,7 +4,7 @@ Note: This project was implemented as mid term project of ml-zoomcamp
 ## Problem Description
 This project is one of the starter problems mentioned on Drivendata.org. Based on aspects of building location and construction, the goal of the project is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal. We're trying to predict the ordinal variable damage_grade, which represents a level of damage to the building that was hit by the earthquake. Hence this will be a multi-class classification problem
 
-You can use the follwing commandas to use the model developed on your local system:
+You can use the follwing commandas to use the model developed on your local system after cloning the repository to your system:
 ```
 bentoml build
 bentoml contaierize <bento tag>
