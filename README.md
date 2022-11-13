@@ -6,8 +6,8 @@ This project is one of the starter problems mentioned on Drivendata.org. Based o
 
 Detailed EDA and experiments can be referenced via `notebook.ipynb`
 
-## Steps tp reproducing the app for yourself
-You can use the follwing commandas to use the model developed on your local system after cloning the repository to your system:
+## Steps to reproduce the app for yourself
+You can use the following commandas to use the model developed on your local system after cloning the repository to your system:
 ```
 bentoml build
 bentoml contaierize <bento tag>
