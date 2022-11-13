@@ -11,7 +11,7 @@ st.markdown(
 )
 
 # Upload a simple cover image
-with open("data/app_image.jpg", "rb") as f:
+with open("./data/app_image.jpg", "rb") as f:
     st.image(f.read(), use_column_width=True)
 
 def predict(building):
