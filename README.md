@@ -27,7 +27,7 @@ https://noeljbasil-ritcher-classifier-ui-q59q1m.streamlit.app/
 ![](https://github.com/noeljbasil/ritcher-classifier/blob/main/Recording%202022-11-13%20at%2003.28.39.gif)
 
 Inorder to similarly deploy to Mogenius, you need to first upload the docker image to DockerHub via the following steps:
-* Create and account
+* Create an account on DockerHub: https://hub.docker.com/
 * Create a repository under free tier and name it . e.g. ritcher-classifer
 * Go to `username(top righ of the DockerHub tab)>Account Setting>security>generate a new access token`
 * From your local terminal, with docker running, run the following to login to DockerHub, retag your local docker image and push it to Dockerhub:
