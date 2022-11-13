@@ -20,7 +20,7 @@ You can also deploy the docker container which was generated to a cloud service 
 The swagger UI is available at: 
 https://njbasil-ritche-prod-ritcher-classifier-cf5h5e.mo4.mogenius.io/
 
-I have further developed a front end UI using streamlit which can be access at: 
+I have further developed a front end UI using streamlit which can be accessed at: 
 https://noeljbasil-ritcher-classifier-ui-q59q1m.streamlit.app/
 
 #### Demo of the app is shown below
